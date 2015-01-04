@@ -1,4 +1,4 @@
 HTML5-Canvas-Game
 =================
 
-Some simple game I made in HTML5 canvas
+Simple 2D side scroller game.
